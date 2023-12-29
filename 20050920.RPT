@@ -1,0 +1,50 @@
+================================================================================
+       TS5  LEVEL 1A  PRODUCT  REPORT    [ TD591225 ]   -DIMAP Format
+================================================================================
+PRODUCT:  SPOT_5  HRG1  XI BIL                           LEVEL 1A
+PROCESSED BY: TAIWAN SRSL, NCU	     TS5 ON 20050920   AT 0811 
+SCENE ID: S5G1J050920023018       IMAGED ON 2005-09-20 AT 02:30:18
+PRODUCT ID:  TD591225 
+Image files on Archived CDROM ID : [TD5912] 
+ 
+        I M A G E   P A R A M E T E R S :
+***********************************************************
+Input Scene SPOT GRS : D 299/300 
+ 
+SCENE CENTER PARAMETERS :
+GMT:  2005-09-20 02:30:18	Shift Along Track(SAT)  :   0
+Latitude    :       24.9976110 	Longitude     :      121.3942770
+Line Number :             3001 	Sample Number :             3001 
+ 
+CORNERS PARAMETERS :
+CORNER   Latitude	   Longitude		   Line  	   Pixel 
+UL:      25.3246060        121.1456790                1                1
+UR:      25.2009720        121.7632260                1             500
+LR:      24.6714480        121.6349070             500              500
+LL:      24.7950220        121.0200320             500                1
+
+Incidence  : R      14.9734100		Orientation :      12.4181000
+Azimuth    :       138.5457500		Elevation   :      59.8275310
+
+
+Physical Calibration Gains   :
+	Band_1: 1.32703   Band_2: 1.59720   Band_3: 1.31512   Band_4: 8.26087
+Physical Calibration Offsets :
+	Band_1: 0.00000   Band_2: 0.00000   Band_3: 0.00000   Band_4: 0.00000 
+ 
+ 
+        F I L E    L I S T I N G :
+***********************************************************
+File      				FileName   
+Imagery File				IMAGERY.BIL
+XML File of MetaData			METADATA.DIM
+Stylesheet for METEDATA.DIM		STYLE.XSL
+Quicklook Image				PREVIEW.JPG
+Icon Image				ICON.JPG 
+ 
+        NOTES FOR READING THIS IMAGE :
+***********************************************************
+1. It is BIL(Bands Interleave) structure. 
+   There is(are) 4 band(s) of data in the imagery file. 
+2. Image Size :    6000  lines   X   6000  samples. 
+3. Each record is for 1 line of one band, each byte is for 1 pixel.
